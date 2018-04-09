@@ -1,3 +1,9 @@
+FAIT PAR :
+  - VICTOR POIRAUD
+  - MATTHIEU LU
+  
+ ##################################
+
 Test First Ruby -- RSpec 3 Edition
 ==========
 
