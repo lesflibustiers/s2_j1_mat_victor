@@ -1,3 +1,9 @@
+#################################################
+ATTENTION LES EXERCICES SONT DANS LA PARTIE "EXO"
+ATTENTION LES EXERCICES SONT DANS LA PARTIE "EXO"
+ATTENTION LES EXERCICES SONT DANS LA PARTIE "EXO"
+#################################################
+
 Test First Ruby -- RSpec 3 Edition
 ==========
 
